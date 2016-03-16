@@ -1,0 +1,40 @@
+{
+ "locations":[
+         {"locationName":"build", "location":"/Users/Chris/Desktop/build1/plugins/"},
+         {"locationName":"hub","location":"/Users/Chris/Desktop/hub1/plugins/"},
+         {"locationName":"survival","location":"/Users/Chris/Desktop/survival1/plugins/"},
+         {"locationName":"other","location":"/Users/Chris/Desktop/other1/plugins/"}
+        ],
+"files":{
+
+		"common":[
+
+				{"fileName":"Angry", "fileURL":"www.test.com"},
+				{"fileName":"Test2", "fileURL":"www.url2.com"}
+
+		],
+		"build":[
+
+				{"fileName":"Test3", "fileURL":"www.url.com"},
+				{"fileName":"Test4", "fileURL":"www.url2.com"}
+
+		],
+		"hub":[
+
+				{"fileName":"Test5", "fileURL":"www.url.com"},
+				{"fileName":"Test6", "fileURL":"www.url2.com"}
+
+		],
+		"survival":[
+
+				{"fileName":"Test7", "fileURL":"www.url.com"},
+				{"fileName":"Test8", "fileURL":"www.url2.com"}
+
+		],
+		"other":[
+
+				{"fileName":"Test9", "fileURL":"www.url.com"},
+				{"fileName":"Test10", "fileURL":"www.url2.com"}
+		]
+	}
+}
